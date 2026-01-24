@@ -13,8 +13,8 @@
 
 <%
     // Addition
-    int a = 10;
-    int b = 20;
+    int a = 110;
+    int b = 220;
     int sum = a + b;
 
     // Even or Odd
